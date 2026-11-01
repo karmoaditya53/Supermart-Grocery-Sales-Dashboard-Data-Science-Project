@@ -80,3 +80,7 @@ An end-to-end executive retail sales performance dashboard designed in Microsoft
 | **Municipal Margin Optimization** | Audit delivery routing, localized vendor pricing, and logistics costs in **Kanyakumari**, **Salem**, and **Tenkasi**[cite: 6]. | Aligns underperforming hubs with top-margin centers like Karur (26.36%)[cite: 6]. |
 
 ---
+
+Dashboard
+<img width="417" height="552" alt="image" src="https://github.com/user-attachments/assets/441d9595-15ed-4dc0-a43b-c906f528515b" />
+
